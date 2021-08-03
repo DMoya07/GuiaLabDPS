@@ -1,0 +1,2 @@
+El error nos muestra que existen cambios y la versión local no es la misma versión que
+existe en el repositorio, por eso siempre se recomienda descargar cambios antes de subir
